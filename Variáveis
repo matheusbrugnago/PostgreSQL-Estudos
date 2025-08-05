@@ -1,0 +1,7 @@
+
+INTEGER	  -->    total INTEGER;
+TEXT	    -->    nome_cliente TEXT;
+BOOLEAN	  -->    is_ativo BOOLEAN;
+NUMERIC(10,2)  --> 	preco NUMERIC(10,2);
+DATE, TIME	-->  data_nasc DATE;
+RECORD, ROWTYPE	  -->  meu_reg RECORD;
